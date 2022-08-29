@@ -101,6 +101,11 @@ body {
 
 }
 
+#blog-menu-button {
+    color: white;
+    background-color: red;
+}
+
 .right-menu a:hover {
     color: white;
     background-color: red;
